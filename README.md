@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+
+i love coding and trying out new projects with simple and basic concepts 
